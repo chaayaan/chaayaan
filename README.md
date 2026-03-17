@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chayandev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayandev/)
-[![GitHub](https://img.shields.io/badge/GitHub-chaayaana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaayaana)
+[![GitHub](https://img.shields.io/badge/GitHub-chaayaan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaayaan)
 [![Email](https://img.shields.io/badge/Email-debchayan6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debchayan6@gmail.com)
 
 </div>
@@ -154,12 +154,12 @@ Bengali kirtan song app with character-by-character typing animations, lyrics di
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaayaana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaayaana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaayaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaayaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaayaana&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaayaan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -182,7 +182,7 @@ Bengali kirtan song app with character-by-character typing animations, lyrics di
 |:--------:|:----:|
 | 📧 Email | [debchayan6@gmail.com](mailto:debchayan6@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/chayandev](https://www.linkedin.com/in/chayandev/) |
-| 🐙 GitHub | [github.com/chaayaana](https://github.com/chaayaana) |
+| 🐙 GitHub | [github.com/chaayaan](https://github.com/chaayaan) |
 
 </div>
 
@@ -192,6 +192,6 @@ Bengali kirtan song app with character-by-character typing animations, lyrics di
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=chaayaana&color=a78bfa&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=chaayaan&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
