@@ -1,8 +1,39 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chayan%20Dev&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%7C%20R%26D%20Lead%20%7C%20CSE%20Final%20Year&descAlignY=58&descColor=a78bfa&animation=fadeIn)
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="50%" style="stop-color:#818cf8"/>
+      <stop offset="100%" style="stop-color:#a78bfa">
+        <animate attributeName="offset" values="1;0;1" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      .name-text {
+        font-family: 'Segoe UI', sans-serif;
+        font-size: 52px;
+        font-weight: 700;
+        fill: url(#nameGrad);
+        letter-spacing: 3px;
+      }
+      .wave-hand {
+        font-size: 46px;
+        animation: wave 2s ease-in-out infinite;
+        transform-origin: 70% 70%;
+        display: inline-block;
+      }
+    </style>
+  </defs>
+  <text x="50%" y="68" text-anchor="middle" class="name-text">
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+    Hi, I'm Chayan 👋
+  </text>
+</svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;PHP+%2F+Laravel+Backend+Dev+%F0%9F%8C%90;R%26D+Team+Lead+%40+Stamasoft+%F0%9F%9A%80;Building+Real-World+Solutions+%F0%9F%94%A7)](https://git.io/typing-svg)
+### Mobile Application Developer Intern · R&D Team Lead · CSE Final Year
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;PHP+%2F+Laravel+Backend+Dev+%F0%9F%8C%90;R%26D+Team+Lead+%40+Stamasoft+%F0%9F%9A%80;Building+Real-World+Solutions+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -185,7 +216,7 @@ Bengali kirtan song app with character-by-character typing animations, lyrics di
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chaayaan&color=a78bfa&style=flat-square&label=Profile+Views)
 
