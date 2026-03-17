@@ -1,37 +1,8 @@
 <div align="center">
 
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#a78bfa"/>
-      <stop offset="50%" style="stop-color:#818cf8"/>
-      <stop offset="100%" style="stop-color:#a78bfa">
-        <animate attributeName="offset" values="1;0;1" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <style>
-      .name-text {
-        font-family: 'Segoe UI', sans-serif;
-        font-size: 52px;
-        font-weight: 700;
-        fill: url(#nameGrad);
-        letter-spacing: 3px;
-      }
-      .wave-hand {
-        font-size: 46px;
-        animation: wave 2s ease-in-out infinite;
-        transform-origin: 70% 70%;
-        display: inline-block;
-      }
-    </style>
-  </defs>
-  <text x="50%" y="68" text-anchor="middle" class="name-text">
-    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
-    Hi, I'm Chayan 👋
-  </text>
-</svg>
+[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Chayan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### Mobile Application Developer Intern · R&D Team Lead · CSE Final Year
+[![Role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=99999&color=818CF8&center=true&vCenter=true&width=600&height=40&lines=Mobile+App+Dev+Intern+%C2%B7+R%26D+Team+Lead+%C2%B7+CSE+Final+Year)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;PHP+%2F+Laravel+Backend+Dev+%F0%9F%8C%90;R%26D+Team+Lead+%40+Stamasoft+%F0%9F%9A%80;Building+Real-World+Solutions+%F0%9F%94%A7)](https://git.io/typing-svg)
 
@@ -169,7 +140,7 @@ Web-based student and admin management platform with role-based access control, 
 ### 🎵 Kirton Song — Android App
 Bengali kirtan song app with character-by-character typing animations, lyrics display, and a polished light-themed UI.
 
-**Stack:** `Kotlin` `Jetpack Compose` `Android`
+**Stack:** `Kotlin` `Android`
 
 </td>
 </tr>
