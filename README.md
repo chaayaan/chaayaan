@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Chayan%20Dev&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Mobile%20Developer%20%7C%20R%26D%20Lead%20%7C%20CSE%20Final%20Year&amp;descAlignY=58&amp;descColor=a78bfa&amp;animation=fadeIn" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chayan%20Dev&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%7C%20R%26D%20Lead%20%7C%20CSE%20Final%20Year&descAlignY=58&descColor=a78bfa&animation=fadeIn)
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Android+Developer+%F0%9F%93%B1;PHP+%2F+Laravel+Backend+Dev+%F0%9F%8C%90;R%26D+Team+Lead+%40+Stamasoft+%F0%9F%9A%80;Building+Real-World+Solutions+%F0%9F%94%A7" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;PHP+%2F+Laravel+Backend+Dev+%F0%9F%8C%90;R%26D+Team+Lead+%40+Stamasoft+%F0%9F%9A%80;Building+Real-World+Solutions+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chayandev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayandev/)
 [![GitHub](https://img.shields.io/badge/GitHub-chaayaan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaayaan)
-[![Email](https://img.shields.io/badge/Email-debchayan6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debchayan6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-debchayan6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debchayan6@gmail.com)
 
 </div>
 
@@ -154,12 +150,11 @@ Bengali kirtan song app with character-by-character typing animations, lyrics di
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaayaan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;show=reviews,discussions_started,prs_merged" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaayaan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
+![Chayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaayaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaayaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaayaan&amp;theme=tokyonight&amp;hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaayaan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -190,7 +185,7 @@ Bengali kirtan song app with character-by-character typing animations, lyrics di
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chaayaan&color=a78bfa&style=flat-square&label=Profile+Views)
 
