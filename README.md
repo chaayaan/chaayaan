@@ -113,7 +113,7 @@ val chayan = Developer(
 <tr>
 <td width="50%">
 
-### 💎 Tunvhmark — Jewellery Lab System
+### 💎 Tunchmark — Jewellery Lab System
 A full-featured billing, hallmark verification, and reporting platform built for the jewellery industry. Includes QR-coded reports, tunch calculations, and live cPanel deployment.
 
 **Stack:** `PHP` `MySQL` `Bootstrap` `cPanel`
