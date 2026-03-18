@@ -32,7 +32,7 @@ My technical journey spans **mobile**, **web**, and **systems** development, com
 
 ```kotlin
 val chayan = Developer(
-    name        = "Chayan",
+    name        = "Chayan Dev",
     role        = listOf("Mobile App Developer", "R&D Team Lead", "CSE Final Year"),
     location    = "Chittagong, Bangladesh 🇧🇩",
     focus       = listOf("Android Development", "PHP Backend", "REST APIs", "Applied ML"),
