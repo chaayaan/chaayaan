@@ -212,6 +212,23 @@ A web-based academic management system featuring student records, attendance, re
 
 ---
 
+## Faculty Review System
+
+**University IT project — course and faculty review platform**
+
+A web platform built as a university IT course project, allowing students to review and rate faculty members and courses they've taken. Other students can browse posted reviews and engage with them through a like/dislike system.
+
+### Key Features
+
+- Student-submitted faculty and course reviews
+- Course-wise and teacher-wise rating system
+- Like/dislike interaction on reviews from other students
+- Student authentication and review management
+
+**Tech Stack:** `PHP` • `MySQL` • `JavaScript` • `AJAX`
+
+---
+
 ## Kirton Song — Android Application
 
 A Bengali devotional song application featuring smooth reading experiences through character-by-character typing animation and a polished mobile interface.
