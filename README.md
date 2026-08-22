@@ -1,194 +1,283 @@
-<div align="center">
+# Chayan Dev
 
-[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Chayan+%F0%9F%91%8B)](https://git.io/typing-svg)
+**Mobile Application Developer • R&D Team Lead • Final-Year CSE
+Student**
 
-[![Role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=99999&color=818CF8&center=true&vCenter=true&width=600&height=40&lines=Mobile+App+Dev+Intern+%C2%B7+R%26D+Team+Lead+%C2%B7+CSE+Final+Year)](https://git.io/typing-svg)
+Chittagong, Bangladesh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;PHP+%2F+Laravel+Backend+Dev+%F0%9F%8C%90;R%26D+Team+Lead+%40+Stamasoft+%F0%9F%9A%80;Building+Real-World+Solutions+%F0%9F%94%A7)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chayandev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayandev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chayan_Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayandev/)
 [![GitHub](https://img.shields.io/badge/GitHub-chaayaan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaayaan)
 [![Email](https://img.shields.io/badge/Email-debchayan6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debchayan6@gmail.com)
 
-</div>
+------------------------------------------------------------------------
 
----
+## About Me
 
-## 👨‍💻 About Me
+I build **production-ready mobile and web applications** that solve real
+business problems. My work focuses on **Android development with
+Kotlin**, **cross-platform development with Flutter**, and **PHP-based
+business systems** that streamline operations for organizations and
+commercial clients.
 
-I'm a **final-year Computer Science & Engineering student** with a strong focus on **Android application development** and **web technologies**. Currently working as a **Mobile Application Developer Intern** at [Stamasoft Technologies](https://stamasoft.com), where I contribute to real-world mobile applications, API integration, and feature development.
+At **Stamasoft Technologies**, I contribute to mobile application
+development while leading the **R&D Team**, where I evaluate new
+technologies, improve development workflows, and help shape technical
+solutions for client projects.
 
-Alongside my internship, I lead the **R&D Team** at Stamasoft — exploring emerging technologies and improving development practices. I enjoy building practical systems that solve real problems, from business management platforms to full-featured mobile applications.
+I've worked on commercial systems ranging from **JewelryKhata**, a
+complete jewellery business ERP, to **FineBullion Desk**, a specialized
+gold exchange management platform, and **TunchMark**, a laboratory
+certification system currently used by **25+ gold testing
+laboratories**.
 
-My technical journey spans **mobile**, **web**, and **systems** development, complemented by foundational knowledge in **networking (CCNA & MTCNA)** that helps me understand system-level architecture.
+------------------------------------------------------------------------
 
-> *"Building solutions today that make tomorrow's problems simpler."*
+## Professional Experience
 
----
+### Mobile Application Developer Intern & R&D Team Lead
 
-## 🧠 What I Do
+**Stamasoft Technologies** • Chittagong, Bangladesh
 
-```kotlin
-val chayan = Developer(
-    name        = "Chayan Dev",
-    role        = listOf("Mobile App Developer", "R&D Team Lead", "CSE Final Year"),
-    location    = "Chittagong, Bangladesh 🇧🇩",
-    focus       = listOf("Android Development", "PHP Backend", "REST APIs", "Applied ML"),
-    currentWork = "Stamasoft Technologies",
-    university  = "Premier University Chittagong"
-)
+**September 2025 -- Present**
+
+-   Develop Android applications using **Kotlin** and **Flutter**
+-   Integrate REST APIs into production applications
+-   Build and improve business software features
+-   Research emerging technologies and development practices
+-   Lead the R&D team on technical exploration and implementation
+
+------------------------------------------------------------------------
+
+# Technical Skills
+
+### Mobile Development
+
+-   Kotlin
+-   Flutter
+-   Android Studio
+
+### Backend Development
+
+-   PHP
+-   Laravel
+-   REST APIs
+-   AJAX
+-   MySQL
+
+### Frontend
+
+-   HTML5
+-   CSS3
+-   JavaScript
+-   Bootstrap
+
+### Tools
+
+-   Git
+-   Python
+-   cPanel
+
+### Networking
+
+-   CCNA
+-   MTCNA
+
+------------------------------------------------------------------------
+
+# Featured Projects
+
+## JewelryKhata --- Jewellery Business ERP
+
+**Complete ERP solution for jewellery businesses**
+
+JewelryKhata is a comprehensive ERP platform designed to digitize
+end-to-end jewellery shop operations, from customer transactions to
+artisan management and accounting.
+
+### Core Modules
+
+-   Customer Management
+-   Order Creation & Order Tracking
+-   POS Sales
+-   Mortgage Management
+-   Old Gold Purchase
+-   Artisan Management
+-   Gold Transaction History
+-   Bengali Halkhata
+-   Expense Management
+-   Dashboard & Reports
+-   Role-Based Authorization
+
+### Business Highlights
+
+-   Complete customer history across orders, mortgages, and gold sales
+-   Artisan-wise gold transaction tracking
+-   Secure role-based access control
+-   Traditional Bengali Halkhata support
+-   Centralized business analytics dashboard
+
+**Tech Stack:** `PHP` • `MySQL` • `Bootstrap` • `JavaScript`
+
+------------------------------------------------------------------------
+
+## FineBullion Desk --- Gold Exchange & Vault Management System
+
+**Specialized ERP for artisan gold exchange businesses**
+
+FineBullion Desk is a business management platform built specifically
+for gold exchange shops where artisans convert **old or impure gold into
+pure gold** while maintaining accurate inventory and vault accounting.
+
+The system synchronizes inventory automatically across exchanges,
+purchases, and multi-karat gold sales.
+
+### Core Modules
+
+-   Gold Exchange Management
+-   Multi-Karat Gold Sales
+-   Gold Purchase Management
+-   Live Inventory Management
+-   24K Vault Tracking
+-   Expense Management
+-   Dashboard & Reports
+-   Customer & Artisan Records
+
+### Business Logic
+
+-   Convert impure or old gold into pure gold
+-   Manage 18K, 20K, 21K, 22K, and 24K inventory separately
+-   Automatic inventory deduction during exchanges and sales
+-   Real-time 24K vault balance tracking
+-   Weight-based accounting for artisan transactions
+
+**Tech Stack:** `PHP` • `MySQL` • `JavaScript` • `AJAX` • `Bootstrap`
+
+------------------------------------------------------------------------
+
+## TunchMark --- Gold Testing & Hallmark Certification Platform
+
+**Production system used by 25+ gold laboratories**
+
+TunchMark is a commercial laboratory management platform developed for
+gold testing laboratories in collaboration with **Rajaiswari**, a
+supplier of professional gold laboratory machinery.
+
+The platform manages laboratory billing, certification, verification,
+inventory, and financial operations while integrating directly with the
+Rajaiswari website for online certificate verification.
+
+### Key Features
+
+-   Laboratory billing management
+-   Gold Testing Certificate generation
+-   Gold Hallmark Certificate generation
+-   Unique **6-digit HUID** for every certificate
+-   QR-code enabled reports
+-   Online certificate verification through **Rajaiswari**
+-   Customer-side verification portal
+
+### Additional Modules
+
+-   Finance panel for tracking income and expenses
+-   Separate accounting for sister concerns and the main laboratory
+-   CSV export for financial reports
+-   Machinery inventory management
+-   Stock-In and Stock-Out tracking
+
+### Impact
+
+-   Used by **25+ gold testing laboratories**
+-   Integrated with **Rajaiswari's** laboratory ecosystem
+
+**Website:** https://www.rajaiswari.com
+
+**Tech Stack:** `PHP` • `MySQL` • `Bootstrap` • `JavaScript`
+
+------------------------------------------------------------------------
+
+## SmartCart --- E-Commerce Platform
+
+A Laravel-based e-commerce platform featuring shopping cart management,
+order processing, and an administrative dashboard.
+
+**Tech Stack:** `Laravel` • `MySQL` • `Bootstrap`
+
+------------------------------------------------------------------------
+
+## School Management System
+
+A web-based academic management system featuring student records,
+attendance, results, and role-based administration.
+
+**Tech Stack:** `PHP` • `MySQL`
+
+------------------------------------------------------------------------
+
+## Kirton Song --- Android Application
+
+A Bengali devotional song application featuring smooth reading
+experiences through character-by-character typing animation and a
+polished mobile interface.
+
+**Tech Stack:** `Kotlin` • `Android`
+
+------------------------------------------------------------------------
+
+## GitHub Statistics
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=chaayaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaayaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=chaayaan&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
 ```
 
-- 📱 Develop Android applications using **Kotlin** and **Java**
-- 🌐 Build backend systems with **PHP**, **Laravel**, and **MySQL**
-- 🔗 Integrate **REST APIs** for dynamic, data-driven applications
-- 🗄️ Design and manage **relational databases**
-- 🚀 Deploy and manage web apps via **cPanel** and domain hosting
-- 🤖 Exploring **ML/AI research** — hybrid CNN+SVM approaches
+------------------------------------------------------------------------
 
----
+## Current Focus
 
-## 🛠️ Tech Stack
+-   Android Development with Kotlin
+-   Cross-Platform Development with Flutter
+-   PHP & Laravel Backend Systems
+-   ERP & Business Software Development
+-   REST API Integration
+-   System Design
 
-### 📱 Android Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+------------------------------------------------------------------------
 
-### 🌐 Web Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+## Education
 
-### 🌍 Tools & Networking
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![MTCNA](https://img.shields.io/badge/MTCNA-CC0000?style=flat-square&logo=mikrotik&logoColor=white)
+**Bachelor of Science in Computer Science & Engineering**
 
-### 🎨 Design Tools
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+Premier University, Chittagong
 
----
+**Expected Graduation:** November 2026
 
-## 💼 Professional Experience
+------------------------------------------------------------------------
 
-<table>
-<tr>
-<td width="60px" align="center">🏢</td>
-<td>
+## Connect
 
-**Mobile Application Developer Intern — R&D Team Lead**
-**Stamasoft Technologies** · Chittagong, Bangladesh
+  Platform   Link
+  ---------- -----------------------------------
+  LinkedIn   https://linkedin.com/in/chayandev
+  GitHub     https://github.com/chaayaan
+  Email      debchayan6@gmail.com
 
-- Contributing to Android application development using modern tools and frameworks
-- Working with REST APIs for data-driven mobile applications
-- Assisting in UI development, debugging, and feature enhancement
-- Leading the R&D team in researching and presenting new technologies
-- Collaborating with cross-functional teams on real-world application projects
+------------------------------------------------------------------------
 
-</td>
-</tr>
-</table>
-
----
-
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💎 Tunchmark — Jewellery Lab System
-A full-featured billing, hallmark verification, and reporting platform built for the jewellery industry. Includes QR-coded reports, tunch calculations, and live cPanel deployment.
-
-**Stack:** `PHP` `MySQL` `Bootstrap` `cPanel`
-
-</td>
-<td width="50%">
-
-### 🛒 SmartCart — E-Commerce Platform
-Full-stack Laravel-based online shopping system with cart management, order processing, and admin panel. Built as a university team project.
-
-**Stack:** `Laravel` `MySQL` `Bootstrap` `JS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏫 School Management System
-Web-based student and admin management platform with role-based access control, attendance tracking, and result management.
-
-**Stack:** `PHP` `MySQL` `Bootstrap`
-
-</td>
-<td width="50%">
-
-### 🎵 Kirton Song — Android App
-Bengali kirtan song app with character-by-character typing animations, lyrics display, and a polished light-themed UI.
-
-**Stack:** `Kotlin` `Android`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Chayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaayaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaayaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaayaan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 Goals
-
-- 🚀 Grow as a professional **Android Developer / Software Engineer**
-- 🏗️ Build scalable and impactful real-world applications
-- 🧠 Expand expertise in **system design**, **backend architecture**, and **applied ML**
-- 🌍 Contribute to open-source projects and the developer community
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|:--------:|:----:|
-| 📧 Email | [debchayan6@gmail.com](mailto:debchayan6@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/chayandev](https://www.linkedin.com/in/chayandev/) |
-| 🐙 GitHub | [github.com/chaayaan](https://github.com/chaayaan) |
-
-</div>
-
----
-
-<div align="center">
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=chaayaan&color=a78bfa&style=flat-square&label=Profile+Views)
-
-</div>
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=chaayaan&label=Profile+Views&color=0A66C2&style=flat-square"/>`{=html}
+```{=html}
+</p>
+```
